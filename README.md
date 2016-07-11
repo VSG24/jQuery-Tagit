@@ -1,3 +1,9 @@
+## Fork of hailwood/jQuery-Tagit
+
+Install with npm:
+
+`npm install hailwood-jQuery-Tagit`
+
 ## Active Development?
 This plugin is no longer under active development, I will continue to merge in pull requests as long as they conform to the Note for contributers/pull requesters below, but do not have the time to activly develop the plugin. If someone wishes to take over the plugin create an issue in the tracker and I will discuss with you there.
 For anyone looking to use this plugin I strongly suggest checkout out the awesome [Select2](http://ivaynberg.github.com/select2/) by [Igor Vaynberg](https://github.com/ivaynberg). Which has all the features of Tagit and then some!
