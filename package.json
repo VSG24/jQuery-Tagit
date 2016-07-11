@@ -1,12 +1,17 @@
 {
   "name": "jquery-tagit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The Jquery Tagit Plugin transforms an html unordered list into a unique tagging plugin",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VSG24/jQuery-Tagit.git"
   },
-  "keywords": ["hailwood", "vsg24", "tagit", "jquery"],
+  "keywords": [
+    "hailwood",
+    "vsg24",
+    "tagit",
+    "jquery"
+  ],
   "author": "Vahid Amiri Motlagh <vahid.a1996@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -15,6 +20,6 @@
   "homepage": "https://github.com/VSG24/jQuery-Tagit#readme",
   "dependencies": {
     "jquery": "2.1.4",
-	"jqueryui": "1.11.1"
+    "jqueryui": "1.11.1"
   }
 }
