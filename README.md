@@ -2,7 +2,7 @@
 
 Install with npm:
 
-`npm install hailwood-jQuery-Tagit`
+`npm install jquery-tagit`
 
 ## Active Development?
 This plugin is no longer under active development, I will continue to merge in pull requests as long as they conform to the Note for contributers/pull requesters below, but do not have the time to activly develop the plugin. If someone wishes to take over the plugin create an issue in the tracker and I will discuss with you there.
