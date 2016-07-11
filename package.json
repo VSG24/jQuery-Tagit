@@ -1,6 +1,6 @@
 {
   "name": "jquery-tagit",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "The Jquery Tagit Plugin transforms an html unordered list into a unique tagging plugin",
   "repository": {
     "type": "git",
